@@ -1,0 +1,10 @@
+# Ignore raw + cleaned data files
+data/m5/
+
+# Optional: Ignore zip files
+*.zip
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.env
