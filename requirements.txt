@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+pmdarima
+statsmodels
+prophet
+xgboost
+tensorflow
